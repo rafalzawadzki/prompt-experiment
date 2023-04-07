@@ -1,0 +1,1 @@
+Translate {{snippet}} to {{language}}
